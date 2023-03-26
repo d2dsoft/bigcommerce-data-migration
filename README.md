@@ -8,6 +8,7 @@
 - [Drupal Commerce to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/435-drupal-commerce-to-bigcommerce-migration-service.html)
 - [HikaShop to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/471-1947-hikashop-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [J2Store to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/514-2142-j2store-to-bigcommerce-migration-tool.html#/72-entities-1000)
+- [JigoShop to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/536-2242-jigoshop-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/436-1777-loaded-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [Magento to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/437-1782-magento-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [OpenCart to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/438-1787-opencart-to-bigcommerce-migration-tool.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
