@@ -59,4 +59,4 @@ The tool is standalone software. You only upload the tool to your server. You do
 ## Contact US
 Website: https://d2d-soft.com/ \
 Email: contact@d2d-soft.com \
-Youtube: https://www.youtube.com/@d2dsoft \
+Youtube: https://www.youtube.com/@d2dsoft 
