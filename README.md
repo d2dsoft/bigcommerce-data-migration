@@ -20,6 +20,7 @@
 - [Magento to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/437-1782-magento-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [MarketPress to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/561-2362-marketpress-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [OpenCart to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/438-1787-opencart-to-bigcommerce-migration-tool.html#/72-entities-1000)
+- [osCMax to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/1182-11537-oscmax-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [osCommerce to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/439-1792-oscommerce-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/440-1797-oxid-eshop-to-bigcommerce-migration-tool.html#/72-entities-1000)
 - [PrestaShop to BigCommerce Migration](https://d2d-soft.com/bigcommerce-migration/441-1802-prestashop-to-bigcommerce-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
